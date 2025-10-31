@@ -2,7 +2,6 @@
 
 ## 2026
 StrucBooth: Structural Gradient Supervised Tuning for Enhanced Portrait Animation
-
 [ICLR 2026 Under Review](https://openreview.net/forum?id=p75bqs6dzY)
 
 ## 2025
